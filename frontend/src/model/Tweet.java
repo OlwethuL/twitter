@@ -10,7 +10,14 @@ import javax.ws.rs.core.Application;
 import twitter4j.Status;
 import twitter4j.Twitter;
 import twitter4j.TwitterException;
+import java.awt.List;
+import java.util.stream.Collectors;
 
+import twitter4j.DirectMessage;
+import twitter4j.Query;
+import twitter4j.QueryResult;
+import twitter4j.Twitter;
+import twitter4j.TwitterException;
 @ManagedBean()
 @SessionScoped
 @Path("/MyRestService")
