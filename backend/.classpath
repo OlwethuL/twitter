@@ -12,5 +12,9 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/OlwethuL/.m2/repository/org/hibernate/hibernate-annotations/3.3.0.ga/hibernate-annotations-3.3.0.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OlwethuL/.m2/repository/org/hibernate/hibernate-core/3.6.6.Final/hibernate-core-3.6.6.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OlwethuL/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OlwethuL/.m2/repository/org/hibernate/hibernate/3.2.4.sp1/hibernate-3.2.4.sp1.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
